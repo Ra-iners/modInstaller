@@ -1,0 +1,10 @@
+C:\Users\white\source\repos\modInstaller\modInstaller\bin\Debug\modInstaller.exe.config
+C:\Users\white\source\repos\modInstaller\modInstaller\bin\Debug\modInstaller.exe
+C:\Users\white\source\repos\modInstaller\modInstaller\bin\Debug\modInstaller.pdb
+C:\Users\white\source\repos\modInstaller\modInstaller\obj\Debug\modInstaller.csprojAssemblyReference.cache
+C:\Users\white\source\repos\modInstaller\modInstaller\obj\Debug\modInstaller.exe
+C:\Users\white\source\repos\modInstaller\modInstaller\obj\Debug\modInstaller.pdb
+C:\Users\white\source\repos\modInstaller\modInstaller\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\white\source\repos\modInstaller\modInstaller\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\white\source\repos\modInstaller\modInstaller\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\white\source\repos\modInstaller\modInstaller\obj\Debug\modInstaller.csproj.CopyComplete
